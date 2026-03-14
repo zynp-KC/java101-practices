@@ -1,6 +1,5 @@
 package basics;
 
-import javax.swing.plaf.basic.BasicLookAndFeel;
 import java.util.Scanner;
 
 /**
